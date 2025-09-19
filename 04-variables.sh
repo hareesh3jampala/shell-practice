@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Aruguments
 PERSON1=$1
 PERSON2=$2
 
