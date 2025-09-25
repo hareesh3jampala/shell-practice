@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#set -e 
+set -e 
 
 # error(){
 #     echo "There is an error in $LINENO, Command is: $BASH_COMMAND"
